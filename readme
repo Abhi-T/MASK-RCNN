@@ -1,1 +1,6 @@
 
+This is a colab notebook
+
+I have used an existing model for inferencing. This notebook can be used directly executed in colab environment.
+
+This also has steps on how we can inference video using MASK RCNN
